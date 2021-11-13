@@ -2,3 +2,5 @@
 .vscode
 /coverage
 /misc
+.github
+dbase
